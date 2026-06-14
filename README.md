@@ -19,7 +19,7 @@ ros2_workshop/
 
 ---
 
-## 🚀 Como Rodar
+## 🚀 Como Rodar (Ubunto 22.04)
 
 ###  1. Importe os arquivos
 
