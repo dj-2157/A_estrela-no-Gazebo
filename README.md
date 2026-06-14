@@ -19,7 +19,7 @@ ros2_workshop/
 
 ---
 
-## 🚀 Como Rodar (Ubuntu 20.04 limpo)
+## 🚀 Como Rodar
 
 ###  1. Importe os arquivos
 
