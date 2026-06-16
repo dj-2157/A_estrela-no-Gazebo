@@ -5,7 +5,7 @@ Implementação do A* em um robô no Gazebo, fazendo sair de um labirinto
 
 Daniel Reis Jerônimo
 
-David
+David Victor Amaro Rocha Alves
 
 ##  Estrutura
 
